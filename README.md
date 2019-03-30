@@ -1,1 +1,1 @@
-# Image-Sequence-LSTM-CNN
+# Image Sequence LSTM+CNN
